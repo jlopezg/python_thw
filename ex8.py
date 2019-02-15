@@ -10,7 +10,7 @@ print formatter % (
                "I had this thing",
                "That you could type up right",
                "But it didn't sing",
-               "So I said goodnight." 
+               "So I said goodnight."  # Sale con comillas dobles por la comilla simple de la linea 12
 			   )
 				
 					
