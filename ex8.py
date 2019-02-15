@@ -10,5 +10,5 @@ print fomatter % (
 
 	"I had this thing",
 	"that you could type up right",
-	"But it didn' t sing. ",
+	"But it didn' t sing.",
 	"So I said goodnight.")
