@@ -11,7 +11,7 @@ my_hair = 'Brown'
 print "let's talk about %s." % my_name
 print "He's %d inches tall" % my_height
 print "He's %d pounds heavy." % my_weight
-print "He's got %s eyes and %s hall." % (my_eyes, my_hair)
+print "He's got %s eyes and %s hair." % (my_eyes, my_hair)
 print "His teeth are usually %s depending on coffee." % my_theeth
 
 # this line is tricky, try to get it exactly right
