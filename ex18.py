@@ -18,12 +18,12 @@ def print_none():
 	print "I got nothing'."
 	
 
-# print_two("Zed","Shaw","Mendez")
+print_two("Zed","Shaw","Mendez")
 print_two_again("Zed","Shaw")
 print_one("First!")
 print_none() 
 
-name = raw_input("Nombre")
-last_name = raw_input("apellido")
-age = raw_input("edad")
-print_two(name, last_name, age)
+#name = raw_input("Nombre")
+#last_name = raw_input("apellido")
+#age = raw_input("edad")
+#print_two(name, last_name, age)
