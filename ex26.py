@@ -78,7 +78,7 @@ print "We can also do that this way:"
 print "We'd have %d beans, %d jars, and %d crabapples." % secret_formula(start_point)
 
 
-sentence = "All god\things come to those who weight." 
+sentence = "All god hings come to those who weight." 
 
 words = ex25.break_words(sentence)
 sorted_words = ex25.sort_words(words)
