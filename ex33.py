@@ -1,8 +1,11 @@
 i = 0
 numbers = []
 
+num = int(input("Elija un numero: "))
+
 while i < 6:
-	print "At the top i is %d" % i
+	print([i for i in [0, 1, 2, 3, 4, 5, 6,] if i < num])
+	#print "At the top i is %d" % i
 	numbers.append(i)
 	
 	i = i + 1
@@ -13,4 +16,4 @@ while i < 6:
 print "The numbers: "
 
 for num in numbers:
-    print num 
+	print num 
