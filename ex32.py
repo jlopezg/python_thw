@@ -18,7 +18,7 @@ for fruit in fruits:
 for i in change:
 	print "I got %r" %i
 
-# we can also build lists, first statr with an empty one
+# we can also build lists, first statr with an empty one.
 elements = []
 
 # The range function to do to 5 counts
