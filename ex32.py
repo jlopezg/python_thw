@@ -10,8 +10,8 @@ for number in the_count:
 	print "This is count %d" %number
 
 # Same as above
-for fruits in fruits:
-	print " A fruit of type: %s" %fruits
+for fruit in fruits:
+	print " A fruit of type: %s" %fruit
 
 # Also we can go throught mixed lists too
 # Notice we have to use %r since we don't know whta's in it
