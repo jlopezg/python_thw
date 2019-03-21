@@ -1,19 +1,26 @@
 # -*- coding: utf - 8 -*-
 
-i = 0 
+v = raw_input("intoduzca un numero: ")
+
 numbers = []
 
-while i < 6 :
-	print "At the top i is %d" % i
-	numbers.append(i)
+def items(v):
 
-	i = i + 1
-	print "numbers now", numbers
+	i = 0
+	
+	while i < int(v) :
+		print "At the top i is %d" % i
+		numbers.append(i)
 
-	print "at the botton i is %d" % i
+		i = i + 1
+		print "numbers now", numbers
 
+		print "at the botton i is %d" % i
 
+items(v)
+ 
 print "the numbers: "
 
-for num in numbers:
-	print num
+#for num in numbers:
+#	print num
+print len(numbers)
