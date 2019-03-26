@@ -58,6 +58,16 @@ def dead(why):
 	print why, "Good job!"
 	exit(0)
 	
+	print("verificacion de acceso")
+
+edad_usuario=int(input("introduce tu edad, por favor "))
+
+if edad_usuario<18:
+	print("no puedes pasar")
+else:
+	print("puedes pasar")
+print("el programa ha finalizado")
+	
 def start():
 	print "you are in a dark room."
 	print "There is a dood to your right and left."
