@@ -21,6 +21,5 @@ items(v)
  
 print "the numbers: "
 
-#for num in numbers:
-#	print num
-print len(numbers)
+for num in numbers:
+	print num
