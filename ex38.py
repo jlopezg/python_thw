@@ -1,6 +1,6 @@
 # -*- coding : utf-8 -*-
 
-ten_things = "apples oranges crows Telephones lght Sugar"
+ten_things = "apples oraclnges crows Telephones lght Sugar"
 
 print "wait there's not 10 tings in that list, let's fix taht."
 
